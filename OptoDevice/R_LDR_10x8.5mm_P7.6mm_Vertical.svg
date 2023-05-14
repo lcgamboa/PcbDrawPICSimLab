@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="10.16886583281175mm"
+   height="8.699389526133563mm"
+   viewBox="0 0 10.16886583281175 8.699389526133563"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="R_LDR_10x8.5mm_P7.6mm_Vertical.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.914298"
+     inkscape:cx="10.281764"
+     inkscape:cy="18.129477"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg57" />
+  <path
+     id="Shape2DView_nwe0001"
+     d="M 7.7183464,0.099695 H 2.4505196 v 0 c -3.15478128,1.9551596 -3.15477945,6.5448429 3.4e-6,8.5 h -3.4e-6 5.2678268 v 0 c 3.1547816,-1.9551596 3.1547796,-6.5448429 -3.4e-6,-8.5 z"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="display:inline;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="ccccccccc" />
+  <circle
+     cx="1.284433"
+     cy="-4.3496952"
+     r="0.25"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#b3b3b3;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+     id="circle6"
+     transform="scale(1,-1)" />
+  <circle
+     cx="8.8844328"
+     cy="-4.3496952"
+     r="0.25"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#b3b3b3;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle8"
+     transform="scale(1,-1)" />
+  <path
+     id="Shape2DView_nwe0006"
+     d="m 3.8510997,5.724695 v -1.225 0 -0.3 0 h 2.1666666 v 0 -0.925 0 H 4.1510997 v 0 h -0.3 v 0 -1.225 0 -0.3 0 H 7.094433 v 0 -0.925 0 h -4.51 v 0 -0.3 h 0 4.81 v 0 0.3 0 1.225 0 h -0.3 v 0 H 4.1510997 v 0 0.925 0 h 2.1666666 v 0 0.3 0 1.225 0 h -0.3 v 0 H 4.1510997 v 0 0.925 0 h 2.1666666 v 0 0.3 0 1.225 0 h -0.3 v 0 H 3.074433 v 0 0.925 0 h 4.51 v 0 0.3 0 h -4.51 v 0 h -0.3 v 0 -1.225 0 -0.3 0 h 3.2433333 v 0 -0.925 0 H 4.1510997 v 0 h -0.3 z"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <g
+     id="Rectangle"
+     transform="matrix(1,0,0,-1,1.284433,4.349695)"
+     style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+    <rect
+       fill="#ff0000"
+       id="origin"
+       width="1"
+       height="1"
+       x="0"
+       y="0"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <title
+       id="title54">b'Rectangle'</title>
+  </g>
+</svg>

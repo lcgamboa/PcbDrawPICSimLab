@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.82799999999286mm"
+   height="16.307999999999858mm"
+   viewBox="0 0 21.82799999999286 16.307999999999858"
+   version="1.1"
+   id="svg219"
+   sodipodi:docname="rj45.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata225">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs223" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview221"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="6.263822"
+     inkscape:cx="37.443809"
+     inkscape:cy="28.908384"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg219" />
+  <path
+     id="Shape2DView_nwe0003"
+     d="M 8.9769904,0.2140003 H 0.214 v 0 15.8799997 0 h 8.7629904 v -0.1 h 0.1634754 v 0 H 8.9769904 v 0 0.1 0 h 0.1634754 v 0 H 21.614 v 0 -0.1 0 -15.6799997 0 -0.1 0 H 9.1404658 v 0 H 8.9769904 v 0 0.1 0 h 0.1634754 v 0 H 8.9769904 Z"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0926042;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+  <path
+     id="Shape2DView_nwe0007"
+     d="m 9.1404658,15.994 v 0.1 z"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0926042;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="ccc" />
+  <path
+     id="Shape2DView_nwe0013"
+     d="m 9.1404658,0.3140003 v -0.1 z"
+     stroke="#191919"
+     stroke-width="0.35 px"
+     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0926042;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="ccc" />
+  <rect
+     fill="#ff0000"
+     id="origin"
+     width="1"
+     height="1"
+     x="11.277381"
+     y="-7.6910372"
+     style="display:inline;stroke-width:0.0926042;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1,-1)" />
+</svg>
